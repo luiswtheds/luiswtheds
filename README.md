@@ -1,11 +1,15 @@
-# 👋 Hi, I’m @luiswtheds
-### 👀 I’m interested in:      
+# 👋 Hi, I’m Luis Cabrera
+### 👀 I’m interested in:
+- AI and Machine Learning
+- Full-stack development
+- Digital Art
 - Producing Music
 ### 🌱 I’m currently learning:
 - Data Structures and Algorithms
 - ARM Programming
 ### 💞️ I’m looking to collaborate on:  
-- 
+- Any C++ or Python Projects involving front-end development
+  - Trying to get practice with HTML/CSS/JS
 ### 📫 How to reach me:
 - [LinkedIn](linkedin.com/in/lcabrera3)
 ### ⚡ Fun fact:
