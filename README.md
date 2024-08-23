@@ -6,8 +6,8 @@
 - Digital Art
 - Producing Music
 ### 🌱 I’m currently learning:
-- Data Structures and Algorithms
-- ARM Programming
+- Algorithm Abstraction
+- Web Development
 ### 💞️ I’m looking to collaborate on:  
 - Any C++ or Python Projects involving front-end development
   - Trying to get practice with HTML/CSS/JS
